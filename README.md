@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">I'm currently learning Asp.Net from Iran</h3>
 
-<img align="right" alt= ="mohammad" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
+<img align= "right" alt = "mohammad"  width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadsas&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsas" /> </p>
 
